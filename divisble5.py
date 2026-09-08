@@ -1,0 +1,5 @@
+for i in range(1, 101):
+    if i % 5 == 0:
+        print(num is divisible by 5)
+    else:
+        print(num is not divisible by 5)
