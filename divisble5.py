@@ -1,4 +1,4 @@
-for i in range(1, 101):
+num=input("enter any number")
     if i % 5 == 0:
         print(num is divisible by 5)
     else:
